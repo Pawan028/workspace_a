@@ -1,0 +1,2 @@
+- [CLN Power Mart project](project-cln-power-mart.md) — merchant-only model, multi-financier plug-ins, stack, releases, where docs and decision log live
+- [User working style](user-working-style.md) — expert-team posture, research first, document decisions, adversarial security, simple client questions

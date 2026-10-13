@@ -1,0 +1,27 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Secrets: never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Client confidential source material (keep out of git)
+*.pptx
+*.xlsx
+*.docx
+
+# Build / deps (future)
+node_modules/
+dist/
+build/
+target/
+.gradle/
+coverage/
